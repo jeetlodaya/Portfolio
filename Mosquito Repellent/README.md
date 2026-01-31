@@ -35,3 +35,6 @@ The system is engineered for **low-power operation**, utilizing efficient DC-DC 
 | **Actuator** | 5V/12V Peristaltic Pump or Solenoid |
 | **Protocol** | Bluetooth Low Energy (BLE) |
 | **App Interface** | MIT App Inventor / Custom Flutter App |
+
+![MR1](https://github.com/user-attachments/assets/2cfdd33b-e493-400e-80a9-34f3a28df496)
+
