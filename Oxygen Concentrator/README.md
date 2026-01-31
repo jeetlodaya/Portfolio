@@ -1,3 +1,5 @@
+![O2](https://github.com/user-attachments/assets/5b0e740d-7ee5-4017-85ff-ae9f3f5fb095)
+
 # OxySense: High-Purity Oxygen Concentrator Controller 🌬️🩺
 
 **A real-time control and monitoring system designed to maintain 92% ±3% oxygen purity for medical-grade concentrators.**
