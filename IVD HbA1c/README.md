@@ -1,5 +1,5 @@
 
-![IVD0](https://github.com/user-attachments/assets/e93d47c0-177b-4125-bff8-a90c1a05e8d5)
+![IVD1](https://github.com/user-attachments/assets/43c4d66f-8adc-4345-9587-841235aa0038)
 
 # HbA1c Optical Analyzer (IVD) 🩸
 
@@ -43,5 +43,5 @@ The device automates the scanning process using a stepper motor linear drive and
 | **MCU** | STM32 / ARM Cortex-M |
 | **PCB Design** | Mixed-signal 2-layer design (Star Grounding/Split Zones) |
 
-![IVD1](https://github.com/user-attachments/assets/43c4d66f-8adc-4345-9587-841235aa0038)
+![IVD0](https://github.com/user-attachments/assets/e93d47c0-177b-4125-bff8-a90c1a05e8d5)
 
