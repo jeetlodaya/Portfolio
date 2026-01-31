@@ -1,3 +1,6 @@
+
+![PM3](https://github.com/user-attachments/assets/9842e811-476e-478e-8db0-a68576ac15c9)
+
 # Picoammeter ⚡🔍
 
 **A high-precision, low-current measurement device designed to measure currents in the picoampere (pA) range.**
