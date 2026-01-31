@@ -1,3 +1,6 @@
+![Uploading Auto_CPAP0.jpg…]()
+
+
 # Auto-CPAP Device 🫁
 
 **An advanced embedded system for sleep apnea treatment with real-time breath event detection and intelligent motor control.**
