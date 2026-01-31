@@ -1,6 +1,4 @@
 
-![PM3](https://github.com/user-attachments/assets/9842e811-476e-478e-8db0-a68576ac15c9)
-
 # Picoammeter ⚡🔍
 
 **A high-precision, low-current measurement device designed to measure currents in the picoampere (pA) range.**
@@ -35,3 +33,5 @@ Measuring picoamps requires fighting the physics of the PCB materials. The follo
 | **Power Management** | Li-Ion Charger |
 | **Interface** | USB-UART (CP2102/CH340) |
 | **PCB Layer** | 2-Layer with careful analog/digital ground separation |
+
+![PM3](https://github.com/user-attachments/assets/9842e811-476e-478e-8db0-a68576ac15c9)
