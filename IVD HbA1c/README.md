@@ -1,3 +1,6 @@
+
+![IVD0](https://github.com/user-attachments/assets/e93d47c0-177b-4125-bff8-a90c1a05e8d5)
+
 # HbA1c Optical Analyzer (IVD) 🩸
 
 **A precision In-Vitro Diagnostic device for quantitative diabetes monitoring using optical reflectance photometry.**
@@ -39,3 +42,6 @@ The device automates the scanning process using a stepper motor linear drive and
 | **Actuation** | Bipolar Stepper Motor + Driver (A4988) |
 | **MCU** | STM32 / ARM Cortex-M |
 | **PCB Design** | Mixed-signal 2-layer design (Star Grounding/Split Zones) |
+
+![IVD1](https://github.com/user-attachments/assets/43c4d66f-8adc-4345-9587-841235aa0038)
+
